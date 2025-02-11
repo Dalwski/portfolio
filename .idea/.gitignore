@@ -1,0 +1,10 @@
+# Ignora cartella di configurazione di WebStorm
+.idea/
+
+# Ignora file di configurazione di WebStorm
+*.iml
+*.xml
+
+# Ignora cartelle e file generati
+External Libraries/
+Scratches and Consoles/
